@@ -5,7 +5,7 @@
 ## How to run this project ?
 
 ```
-git https://github.com/ubert-guertin-games/ARCADE-KARATE-GAME.git
+git clone https://github.com/ubert-guertin-games/ARCADE-KARATE-GAME.git
 
 cd ARCADE-KARATE-GAME
 
